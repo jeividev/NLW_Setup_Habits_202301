@@ -1,0 +1,12 @@
+{
+  "name": "nlw_setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "backend": "cd server && npm run dev",
+    "frontend": "cd web && npm run dev"
+  },
+  "author": "",
+  "license": "ISC"
+}
